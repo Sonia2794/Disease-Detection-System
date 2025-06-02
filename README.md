@@ -1,10 +1,2 @@
 # Disease-Detection-System
-# The Project should be placed in the following order
-
- project folder
-    |
-    |---\templates\all HTML Files
-    |app.py
-    |models
-    |dataset
-    |train_model.py
+The HTML files in the Project should be placed in the a folder named 'templates' to run the code without errors
