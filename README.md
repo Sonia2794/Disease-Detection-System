@@ -1,7 +1,7 @@
 # Disease-Detection-System
-# The Project should be placed in the following order
+ The Project should be placed in the following order
 
-# project folder
+ project folder
     |
     |---\templates\all HTML Files
     |app.py
